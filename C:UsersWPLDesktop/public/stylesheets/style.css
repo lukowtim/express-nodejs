@@ -6,3 +6,10 @@ body {
 a {
   color: #00B7FF;
 }
+
+.gcontainer {
+  display:contents;
+  margin: 5% 5% 5% 5%;
+  width: 100%;
+  height: 100%;
+}
